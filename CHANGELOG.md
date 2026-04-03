@@ -1,3 +1,37 @@
+# [6.5.3](https://github.com/linagora/linshare/compare/6.5.2...6.5.3) (2026-03-04) [Download link](http://download.linshare.org/versions/6.5.3/)
+
+**The 6.5.3 release of LinShare is out**
+
+> **NB :**
+> You can find the upgrade documentation [here](documentation/EN/upgrade/linshare-upgrade-from-v6.5.2-to-v6.5.3.md).
+
+- **core** : 6.5.3 - [changelog](https://github.com/linagora/linshare-core/compare/6.5.2...6.5.3) 
+- **ui-user** : 6.5.3 - [changelog](https://github.com/linagora/linshare-ui-user/compare/v6.5.2...v6.5.3)
+- **ui-admin** : 6.5.3 - [changelog](https://github.com/linagora/linshare-ui-admin/compare/v6.5.2...v6.5.3)
+- **ui-upload-request** : 6.5.3 - [changelog](https://github.com/linagora/linshare-ui-upload-request/compare/v6.5.2...v6.5.3)
+
+>**NB:**
+>Before launching the upgrade process it is recommended to do a backup on the existing data in your Database.
+
+
+#### Bug Fixes and improvements:
+* Core:
+
+  * Fixed an issue related to downloading anonymous share.
+
+* UI-User:
+
+  * nothing to report
+ 
+* UI-Admin:
+
+  * nothing to report
+
+* UI-Upload request:
+ 
+  * nothing to report
+
+
 # [6.5.2](https://github.com/linagora/linshare/compare/6.5.1...6.5.2) (2025-11-27) [Download link](http://download.linshare.org/versions/6.5.2/)
 
 **The 6.5.2 release of LinShare is out**
@@ -352,8 +386,11 @@
   * Fixing the bug; password not sent in mail activation when delay before notification is enabled for upload request
   * Fixing the bug of too important latency to display user guests when the number of guests is important 
  
+* UI-User:
+  * Fixing the bug of adding an external on a contact list after shared a file with him
 
-
+* UI-Upload-Request:
+  * Fixing the bug of the password policy
 
 # [6.1.0](https://github.com/linagora/linshare/compar#)  (2023-09-13) [Download link](http://download.linshare.org/versions/6.1.0/)
 
