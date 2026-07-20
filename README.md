@@ -1,6 +1,6 @@
 # LinShare
 
-![LinShare](https://optim.tildacdn.net/tild3962-3433-4761-b463-636136316436/-/format/webp/linshare-platforms_1.png)
+![LinShare](documentation/img/linshare-dashboard-en.png)
 
 
 ## License
