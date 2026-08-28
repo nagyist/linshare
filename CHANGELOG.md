@@ -1,3 +1,43 @@
+# [6.5.4](https://github.com/linagora/linshare/compare/6.5.3...6.5.4) (2026-07-22) [Download link](http://download.linshare.org/versions/6.5.4/)
+
+**The 6.5.4 release of LinShare is out**
+
+> **NB :**
+> You can find the upgrade documentation [here](documentation/EN/upgrade/linshare-upgrade-from-v6.5.3-to-v6.5.4.md).
+
+- **core** : 6.5.4 - [changelog](https://github.com/linagora/linshare-core/compare/6.5.3...6.5.4) 
+- **ui-user** : 6.5.4 - [changelog](https://github.com/linagora/linshare-ui-user/compare/v6.5.3...v6.5.4)
+- **ui-admin** : 6.5.4 - [changelog](https://github.com/linagora/linshare-ui-admin/compare/v6.5.3...v6.5.4)
+- **ui-upload-request** : 6.5.4 - [changelog](https://github.com/linagora/linshare-ui-upload-request/compare/v6.5.3...v6.5.4)
+
+>**NB:**
+>Before launching the upgrade process it is recommended to do a backup on the existing data in your Database.
+
+
+#### Main features:
+* Core:
+
+  * Allow guest accounts to use contact lists for sharing: when no contact list is assigned to the guest, the public contact lists of its source domain become usable as sharing recipients.
+
+
+#### Bug Fixes and improvements:
+* Core:
+
+  * Fixed an anonymous share error when a restricted guest shares through a contact list.
+
+* UI-User:
+
+  * nothing to report
+ 
+* UI-Admin:
+
+  * nothing to report
+
+* UI-Upload request:
+ 
+  * nothing to report
+
+
 # [6.5.3](https://github.com/linagora/linshare/compare/6.5.2...6.5.3) (2026-03-04) [Download link](http://download.linshare.org/versions/6.5.3/)
 
 **The 6.5.3 release of LinShare is out**
