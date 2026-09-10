@@ -1,2 +1,4 @@
 target
 *.swp
+.vscode/
+CLAUDE.md
