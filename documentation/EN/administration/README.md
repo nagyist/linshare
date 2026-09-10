@@ -8,6 +8,8 @@
 
 * [LDAP configuration](ldap.md).
 
+* How to [synchronize workgroups with LDAP groups (sysadmin runbook)](how-to-sync-workgroups-with-ldap.md).
+
 * [LQL Functions](LQL-functions.md).
 
 * How to [use custom email logo in LinShare](how-to-use-mail-attachment.md).
