@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="#essayer-linshare">Essayer</a> ·
+  <a href="#essayer-linshare">Essayer LinShare</a> ·
   <a href="#installer">Installer</a> ·
   <a href="#documentation">Documentation</a> ·
   <a href="#composants-et-dépôts">Dépôts</a> ·
@@ -35,7 +35,7 @@
 
 ## Qu'est-ce que LinShare ?
 
-LinShare est une plateforme open source de partage de fichiers, conçue pour les entreprises qui
+LinShare est une plateforme open source de partage de fichiers, conçue pour les organisations qui
 doivent échanger des documents avec des collaborateurs internes et externes tout en gardant la
 maîtrise de la confidentialité et de la traçabilité. Elle remplace les pièces jointes, les clés USB
 et les services cloud grand public par un service hébergé sur votre propre infrastructure.

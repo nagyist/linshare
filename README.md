@@ -35,7 +35,7 @@
 
 ## What is LinShare?
 
-LinShare is an open-source file sharing platform built for companies that need to exchange documents
+LinShare is an open-source file sharing platform built for organizations that need to exchange documents
 with internal and external collaborators while keeping full control over privacy and traceability.
 It replaces email attachments, USB sticks and consumer cloud drives with a self-hosted service you
 run on your own infrastructure.
