@@ -2,3 +2,4 @@ target
 *.swp
 .vscode/
 CLAUDE.md
+utils/readme-demo/
