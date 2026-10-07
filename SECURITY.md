@@ -2,12 +2,13 @@
 
 ## Reporting a vulnerability
 
-Please do **not** report security vulnerabilities through public issues, merge requests or
+Please do **not** report security vulnerabilities through public GitHub issues, pull requests or
 discussions.
 
-Report them privately by opening a **confidential issue** on the `linshare-core` project of
-Linagora's GitLab (tick *"This issue is confidential"* when creating it):
-https://ci.linagora.com/linagora/lgs/linshare/products/linshare-core/-/issues/new
+Report them privately through GitHub's private vulnerability reporting: go to the
+[Security tab](https://github.com/linagora/linshare/security) of this repository and click
+**Report a vulnerability**, or open the form directly:
+https://github.com/linagora/linshare/security/advisories/new
 
 Include, as far as you can:
 
